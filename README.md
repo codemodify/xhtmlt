@@ -42,7 +42,6 @@ http://ukoreh.github.io/appkit/pocdemo.xml
     do not understand roots of which are comming from.
 
 #### Why do it this way ?
-    ------------------------------------------------------------
     - because it is the only correct and solid way of doing things
     - because there is no need to have hacks invented that bloat your 
       code/logic and don't do anything than addressing some narrow problem 
@@ -55,7 +54,6 @@ http://ukoreh.github.io/appkit/pocdemo.xml
       
       
 #### How the development of the components goes or started
-    ------------------------------------------------------------
     It is the oposite in a way of reversing the traditional way. Meaning first we write
     some meta code that must be simple and straghtforward in usage with no bloating, then we find
     an appropriate implementation for that metacode.
